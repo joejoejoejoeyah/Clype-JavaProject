@@ -1,0 +1,40 @@
+.backgroundtheme{
+    -fx-background-color: #444444
+}
+
+.buttontheme {
+    -fx-background-color: aqua;
+    -fx-text-fill: black;
+    -fx-font-size: 12;
+    -fx-padding: 3px 15px;
+
+}
+
+.buttonattatchmenttheme{
+    -fx-background-color: aliceblue;
+    -fx-font-size: 12;
+    -fx-padding: 3px;
+}
+.anchortheme {
+    -fx-padding: 80px 0px 0px 10px;
+    -fx-background-color: #54726;
+}
+
+.hboxtheme {
+    -fx-spacing: 0px;
+}
+
+.vboxtheme{
+    -fx-padding: 10px;
+
+
+}
+
+.textfieldtheme {
+    -fx-text-fill: white;
+    -fx-font-size: 24;
+}
+
+.labeltheme{
+    -fx-text-fill: white;
+}
